@@ -61,9 +61,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Express](http://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff)
 
-
-
-
 ### Pentesting
 
 ![Kali Linux](http://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=ffffff)
