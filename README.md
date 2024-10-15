@@ -42,6 +42,9 @@
 
 ### Tools
 
+![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff)
+![GraphQL](http://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
@@ -56,6 +59,17 @@
 ![Wireshark](http://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=ffffff)
 ![Nmap](http://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=ffffff)
 ![OpenVPN](http://img.shields.io/badge/-OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=ffffff)
+![Aircrack-ng](http://img.shields.io/badge/-Aircrack%20ng-0078D7?style=flat-square&logo=aircrack-ng&logoColor=ffffff)
+![Hydra](http://img.shields.io/badge/-Hydra-6000FF?style=flat-square&logo=hydra&logoColor=ffffff)
+![John the Ripper](http://img.shields.io/badge/-John%20the%20Ripper-777BB4?style=flat-square&logo=johntheripper&logoColor=ffffff)
+![Nikto](http://img.shields.io/badge/-Nikto-E34F26?style=flat-square&logo=nikto&logoColor=ffffff)
+![SQLmap](http://img.shields.io/badge/-SQLmap-CC6699?style=flat-square&logo=sqlmap&logoColor=ffffff)
+![Nessus](http://img.shields.io/badge/-Nessus-00C853?style=flat-square&logo=tenable&logoColor=ffffff)
+![Hashcat](http://img.shields.io/badge/-Hashcat-EE7623?style=flat-square&logo=hashcat&logoColor=ffffff)
+![OWASP ZAP](http://img.shields.io/badge/-OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=ffffff)
+![Ettercap](http://img.shields.io/badge/-Ettercap-003545?style=flat-square&logo=ettercap&logoColor=ffffff)
+![SET](http://img.shields.io/badge/-Social%20Engineer%20Toolkit-4E9A06?style=flat-square&logo=set&logoColor=ffffff)
+
 
 
 <br/>
