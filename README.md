@@ -45,10 +45,23 @@
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
 ![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff)
 ![GraphQL](http://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+
+### Frameworks y Librerías
+
+![Django](http://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=ffffff)
+![Flask](http://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
+![FastAPI](http://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)
+![Pandas](http://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff)
+![NumPy](http://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff)
+![Gin](http://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
+![Node.js](http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Express](http://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff)
+
+
 
 
 ### Pentesting
