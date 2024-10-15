@@ -40,11 +40,23 @@
 ![Bash](http://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 
-
+### Tools
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+
+
+### Pentesting
+
+![Kali Linux](http://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=ffffff)
+![Burp Suite](http://img.shields.io/badge/-Burp%20Suite-FF7139?style=flat-square&logo=burpsuite&logoColor=ffffff)
+![Metasploit](http://img.shields.io/badge/-Metasploit-0577B4?style=flat-square&logo=metasploit&logoColor=ffffff)
+![Wireshark](http://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=ffffff)
+![Nmap](http://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=ffffff)
+![OpenVPN](http://img.shields.io/badge/-OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=ffffff)
+
 
 <br/>
 
