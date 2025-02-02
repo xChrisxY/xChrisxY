@@ -107,10 +107,10 @@
 
 ---
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
+[Youtube]: https://youtube.com/@christophermoreno2429?si=YhqV9q5pd-iz0bVd
+[instagram]: https://www.instagram.com/xChrisxY
+[linkedin]: www.linkedin.com/in/christopher-yahir-48b187298
+[Spotify]: https://open.spotify.com/user/21wbtmxtzbcm2iu7r3ogol3gq?si=b3db3710c6ce4ad3
 
 
 ----
