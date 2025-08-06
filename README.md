@@ -38,26 +38,6 @@ Estudiante de Ingeniería en Software en la Universidad Politécnica de Chiapas,
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
----
-
-## 🔥 Proyectos Destacados
-
-### 🌿 **Hydrop - Sistema IoT de Riego Hidropónico**
-*Junio 2024 - Enero 2025*
-
-Sistema inteligente que monitorea y controla cultivos hidropónicos en tiempo real usando Raspberry Pi, sensores ambientales y una API robusta desarrollada en Python/Flask.
-
-**Tech Stack:** Python, Flask, Raspberry Pi, IoT Sensors, Real-time Monitoring
-
-### 🏞️ **Plataforma Turística - Sima de las Cotorras**
-*Julio - Diciembre 2023*
-
-Aplicación web full-stack para promover destinos turísticos en Chiapas. Incluye sistema de reservas, autenticación de usuarios y procesamiento de pagos con Stripe.
-
-**Tech Stack:** Django, MongoDB, React, Stripe API
-
----
-
 ## 🛡️ Arsenal de Pentesting
 
 ![Kali Linux](http://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
