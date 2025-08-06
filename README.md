@@ -14,9 +14,17 @@ Estudiante de Ingeniería en Software en la Universidad Politécnica de Chiapas,
 
 ---
 
+---
+
+### 🎧 Spotify Playing
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6Ir45aCxrdoM7g8Cqfe0RQ?si=b2ab514afe2344b1)
+
+---
+
 <img align="right" alt="Coding GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Tecnologías
 
 ### **Lenguajes de Combate**
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -38,14 +46,6 @@ Estudiante de Ingeniería en Software en la Universidad Politécnica de Chiapas,
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
----
-
-### 🎧 Spotify Playing
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6Ir45aCxrdoM7g8Cqfe0RQ?si=b2ab514afe2344b1)
-
----
-
 ## 🛡️ Arsenal de Pentesting
 
 ![Kali Linux](http://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
@@ -66,18 +66,4 @@ Estudiante de Ingeniería en Software en la Universidad Politécnica de Chiapas,
 
 ---
 
-## 💭 Filosofía
 
-> "La ciberseguridad no es solo encontrar vulnerabilidades, es construir un mundo digital más seguro para todos."
-
-**🎯 Siempre aprendiendo, siempre evolucionando, siempre protegiendo.**
-
----
-
-<div align="center">
-
-**⭐️ Si algo de mi trabajo te resulta útil, no olvides darle una estrella ⭐️**
-
-*Hecho con 💙 desde Chiapas, México*
-
-</div>
