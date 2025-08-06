@@ -38,6 +38,14 @@ Estudiante de Ingeniería en Software en la Universidad Politécnica de Chiapas,
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
+---
+
+### 🎧 Spotify Playing
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6Ir45aCxrdoM7g8Cqfe0RQ?si=b2ab514afe2344b1)
+
+---
+
 ## 🛡️ Arsenal de Pentesting
 
 ![Kali Linux](http://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
@@ -46,15 +54,6 @@ Estudiante de Ingeniería en Software en la Universidad Politécnica de Chiapas,
 ![Nmap](http://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=ffffff)
 ![SQLmap](http://img.shields.io/badge/-SQLmap-CC6699?style=for-the-badge&logo=sqlmap&logoColor=ffffff)
 ![Wireshark](http://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=ffffff)
-
----
-
-## 🎓 Experiencia Profesional
-
-**🔐 Junior Pentester (Intern)** - TPX, Aguascalientes  
-*Marzo - Abril 2024*
-
-Colaboré con un equipo especializado en pruebas de penetración, identificando vulnerabilidades críticas en sistemas cliente y desarrollando estrategias de mitigación efectivas.
 
 ---
 
