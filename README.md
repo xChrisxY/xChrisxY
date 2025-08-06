@@ -4,15 +4,13 @@
 
 ## 🚀 Software Engineer | 🔐 Pentester | 🐍 Python Developer
 
-Estudiante de Ingeniería en Software en la Universidad Politécnica de Chiapas, apasionado por la ciberseguridad y el desarrollo de soluciones innovadoras. Me especializo en encontrar vulnerabilidades y crear sistemas robustos que protejan lo que realmente importa.
+Ingeniero de Software egresado de la Universidad Politécnica de Chiapas, apasionado por la ciberseguridad y el desarrollo de soluciones innovadoras. Me especializo en encontrar vulnerabilidades y crear sistemas robustos que protejan lo que realmente importa.
 
 **🎯 Lo que hago:**
 - 🕵️‍♂️ Pentesting y evaluación de vulnerabilidades
 - 🌐 Desarrollo full-stack con enfoque en backend
 - ☁️ Arquitectura en la nube (AWS)
 - 🤖 Sistemas IoT y automatización
-
----
 
 ---
 
