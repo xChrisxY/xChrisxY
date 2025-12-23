@@ -61,11 +61,13 @@
 <h3>🧲 Known Me:</h3>
 <div align="center">
   <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/xchrisxy/" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
   <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="57px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@christophermoreno2429" target="_blank"><img width="57px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
+
+<a href="https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">Linkedin iconos creados por riajulislam - Flaticon</a>
 
 <br/>
 
@@ -88,21 +90,6 @@
 </div>
 
 <br/>
-
-<!-- Best Repositories -->
-<div align="center">
-  <h3>⭐️ Best Repositories</h3>
-  <p align="center">
-    <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Data-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Computer-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Computer-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Web-Development">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Web-Development&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-  </p>
-</div>
 
 
 <!-- Tech Stack -->
