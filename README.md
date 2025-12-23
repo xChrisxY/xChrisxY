@@ -153,10 +153,5 @@
 
 <!-- Ending -->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkwNHp0YTR5YjR4dWl1a3Z3eHI3bDk2ODF4ZzlpZGtlcTJhNjU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" 
-     alt="Wall-E GIF" 
-     style="width: 100%; height: auto; display: block;" />
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkwNHp0YTR5YjR4dWl1a3Z3eHI3bDk2ODF4ZzlpZGtlcTJhNjU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" 
-     alt="Wall-E GIF" 
-     style="width: 100%; height: auto; display: block;" />
+     style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;" />
 
