@@ -152,12 +152,6 @@
 </p>
 
 <!-- Ending -->
-<a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkwNHp0YTR5YjR4dWl1a3Z3eHI3bDk2ODF4ZzlpZGtlcTJhNjU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkwNHp0YTR5YjR4dWl1a3Z3eHI3bDk2ODF4ZzlpZGtlcTJhNjU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkwNHp0YTR5YjR4dWl1a3Z3eHI3bDk2ODF4ZzlpZGtlcTJhNjU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
 </a>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkwNHp0YTR5YjR4dWl1a3Z3eHI3bDk2ODF4ZzlpZGtlcTJhNjU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" height="1" />
-
-<p align="center">
-  ⚠️ This README is uniquely designed by <strong>@JoshuaThadi.</strong>
-</p>
