@@ -69,16 +69,8 @@
   <a href="https://www.youtube.com/@christophermoreno2429" target="_blank"><img width="57px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
-<a href="https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">Linkedin iconos creados por riajulislam - Flaticon</a>
-
 <br/>
 
-<!-- GitHub Status -->
-<h3 align="center">🌱 GitHub Status</h3>
-<div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
-</div>
 
 <br/>
 
@@ -87,19 +79,19 @@
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python,bash,javascript" /><br><br>
+  <img src="https://skillicons.dev/icons?i=java,python,bash,javascript" />
 
   <!-- Backend Frameworks -->
-  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,flask" /><br><br>
+  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,flask" />
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
   <!-- Messaging & Streaming -->
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" /><br><br>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
 
   <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux" /><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux" />
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vim,neovim,idea,pycharm" />
@@ -120,21 +112,15 @@
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
-<br><br>
-
 <!-- Microservices -->
 <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gateway-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Resilience4j-4A4A4A?style=for-the-badge"/>
 
-<br><br>
-
 <!-- Messaging -->
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-
-<br><br>
 
 <!-- Python Backend -->
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -142,14 +128,10 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-<br><br>
-
 <!-- DevOps & Cloud -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<br><br>
 
 <!-- Testing -->
 <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge"/>
@@ -159,14 +141,6 @@
 
 
 <br/>
-
-<!-- Support -->
-<h3 align="center">💰 Support Me</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
-  </a>
-</p>
 
 <!-- Ending -->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkwNHp0YTR5YjR4dWl1a3Z3eHI3bDk2ODF4ZzlpZGtlcTJhNjU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" 
