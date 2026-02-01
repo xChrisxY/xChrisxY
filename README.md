@@ -24,29 +24,6 @@
   <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Fallout GIF" style="width:auto; height:auto" />
 </a>
 
-<!-- Greeting -->
-<!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
-
-
-
-<div align="center">
-  <!-- Profile Views -->
-  
-  <a href="https://github.com/JoshuaThadi" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
-  
-  <!--<img src="https://img.shields.io/badge/Profile%20Views-12,391-5e81ac?style=for-the-badge&logo=github" />-->
-
-
-  <!-- Total Stars -->
-  <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
-  <!-- Followers -->
-  <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
-</div>
-
 <img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
 
 <!-- About Me -->
