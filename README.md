@@ -52,15 +52,17 @@
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
-  🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Blockchain Development, etc.<br>
+  👨‍💻 Backend Software Engineer focused on building scalable, secure and maintainable systems.<br>
+  ☕ Specialized in Java and the Spring ecosystem: Spring Boot, JPA/Hibernate, Spring Security, Validation and WebSockets.<br>
+  🧩 Strong experience designing clean and hexagonal architectures, RESTful APIs and microservices-based systems.<br>
+  🐍 Backend developer with Python using Django, FastAPI and Flask.<br>
+  ☁️ Hands-on experience with Docker, AWS, messaging systems (Kafka, RabbitMQ) and distributed systems patterns.<br>
+  🐧 Linux enthusiast: daily driver with deep knowledge of bash, vim and the Unix ecosystem.<br>
 </p>
 
 <h3>🧲 Known Me:</h3>
 <div align="center">
-  <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="mailto:christopheryahirm@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/xchrisxy/" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
   <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
@@ -83,11 +85,27 @@
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,python,bash,javascript" /><br><br>
+
+  <!-- Backend Frameworks -->
+  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,flask" /><br><br>
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /><br><br>
+
+  <!-- Messaging & Streaming -->
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" /><br><br>
+
+  <!-- DevOps & Cloud -->
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux" /><br><br>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vim,neovim,idea,pycharm" />
+
 </div>
+
 
 <br/>
 
@@ -95,38 +113,50 @@
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" /></a>
-<a href="https://www.netlify.com/" target="_blank">
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" /></a>
-<a href="https://dotnet.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" /></a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-<a href="https://react.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-<a href="https://keras.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" /></a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" /></a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
-<a href="https://scipy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" /></a>
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" /></a>
+
+<!-- Core Backend -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<br><br>
+
+<!-- Microservices -->
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gateway-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Resilience4j-4A4A4A?style=for-the-badge"/>
+
+<br><br>
+
+<!-- Messaging -->
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+
+<br><br>
+
+<!-- Python Backend -->
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<br><br>
+
+<!-- DevOps & Cloud -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<br><br>
+
+<!-- Testing -->
+<img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge"/>
 
 </div>
+
 
 <br/>
 
